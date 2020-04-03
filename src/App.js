@@ -3,6 +3,7 @@ import "./styles.css";
 import BuggyCounter from "./BuggyCounter";
 import ErrorBoundary from "./ErrorBoundary";
 import Module1 from "./Module1";
+
 function ErrorTh(val) {
   if (val === 5) {
     // Simulate a JS error
@@ -11,6 +12,7 @@ function ErrorTh(val) {
     return null;
   }
 }
+
 function App() {
   return (
     <div>
@@ -31,6 +33,7 @@ function App() {
       <ErrorBoundary>
         <BuggyCounter />
       </ErrorBoundary>
+
       <ErrorBoundary>
         <BuggyCounter />
       </ErrorBoundary>

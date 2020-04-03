@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/28-react-errorboundary/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/28-react-errorboundary/static/js/main.6c6c1029.chunk.js",
+    "main.js.map": "/28-react-errorboundary/static/js/main.6c6c1029.chunk.js.map",
+    "runtime~main.js": "/28-react-errorboundary/static/js/runtime~main.2615e4f4.js",
+    "runtime~main.js.map": "/28-react-errorboundary/static/js/runtime~main.2615e4f4.js.map",
+    "static/js/2.e23f0133.chunk.js": "/28-react-errorboundary/static/js/2.e23f0133.chunk.js",
+    "static/js/2.e23f0133.chunk.js.map": "/28-react-errorboundary/static/js/2.e23f0133.chunk.js.map",
+    "index.html": "/28-react-errorboundary/index.html",
+    "precache-manifest.062d83ce8d5edceec1c6d8241abc61fd.js": "/28-react-errorboundary/precache-manifest.062d83ce8d5edceec1c6d8241abc61fd.js",
+    "service-worker.js": "/28-react-errorboundary/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "/28-react-errorboundary/static/css/main.9b1431d8.chunk.css.map"
+  }
+}
